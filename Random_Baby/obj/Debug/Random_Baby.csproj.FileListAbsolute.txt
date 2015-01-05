@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\Visual Studio 2012\Projects\ДЗ\Random_Baby\Random_Baby\bin\Debug\Random_Baby.exe.config
+C:\Users\HP\Documents\Visual Studio 2012\Projects\ДЗ\Random_Baby\Random_Baby\bin\Debug\Random_Baby.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\ДЗ\Random_Baby\Random_Baby\bin\Debug\Random_Baby.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\ДЗ\Random_Baby\Random_Baby\obj\Debug\Random_Baby.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\ДЗ\Random_Baby\Random_Baby\obj\Debug\Random_Baby.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\ДЗ\Random_Baby\Random_Baby\obj\Debug\Random_Baby.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\ДЗ\Random_Baby\Random_Baby\obj\Debug\Random_Baby.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\ДЗ\Random_Baby\Random_Baby\obj\Debug\Random_Baby.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\ДЗ\Random_Baby\Random_Baby\obj\Debug\Random_Baby.csprojResolveAssemblyReference.cache
